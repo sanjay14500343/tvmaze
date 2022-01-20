@@ -1,0 +1,9 @@
+.tv-maze{background:url(../images/bg.png);min-height:100vh;padding:20px 0;}
+.contentBox{background-color:#000;opacity:0.8;padding:50px;color:#FFF;border-radius:5px;box-shadow:0 0 10px 0 #000;}
+input{color:#000 !important;}
+.movie-box{background:#EEE;border:2px solid #FFF;margin:10px 0;padding:10px;border-radius:5px;box-shadow:0 0 10px 0 #CCC;}
+.movie-box img{width:100%;}
+.movie-box h4{font-size:20px;font-weight:500;}
+.movie-box p{font-size:16px;height:50px;overflow:hidden;}
+.movie-box h6{font-size:16px;margin-bottom:0px;}
+.balance-margin{display:inline;margin:auto;}
